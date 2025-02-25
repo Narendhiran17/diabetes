@@ -1,4 +1,4 @@
 flask
-numpy
 pickle
+numpy
 gunicorn
